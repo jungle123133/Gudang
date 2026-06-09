@@ -1,0 +1,6 @@
+{
+  "name": "Manajemen Gudang",
+  "description": "Aplikasi manajemen gudang modern untuk melacak stok barang, mengelola transaksi masuk-keluar, serta menyusun laporan inventaris bulanan secara otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
